@@ -49,7 +49,7 @@ docker run -p 8091:8080 gcdd1993/jira-software:8.16
 
 4、设置许可证
 
-![image-20210603154622375](C:\Users\reborn\AppData\Roaming\Typora\typora-user-images\image-20210603154622375.png)
+![](https://i.loli.net/2021/06/03/lAuoxsSndNcHfhD.png)
 
 ```bash\
 java -jar atlassian-agent.jar -d -m gaochen@olxin.cn -n BAT -p 'jira' -o http://localhost:8091 -s ${服务器ID}
